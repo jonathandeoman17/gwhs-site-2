@@ -12,20 +12,20 @@ body {
 .footer {
   padding-right: 15px;
   padding-left: 15px;
- 
-
-}
-
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-  div.transbox {
+ div.transbox {
     margin: 30px;
     background-color: #FF0000;
     border: 1px solid red;
     opacity: 0.6;
     filter: alpha(opacity=60); /* For IE8 and earlier */
 }
+
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+  
 }
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
