@@ -9,6 +9,7 @@ h1 {
 }
 
 div {
+    background: linear-gradient(rgba(48, 110, 255, 1), (48, 110, 255, .1));
     width:300px;
     height:200px;
     position:absolute;
