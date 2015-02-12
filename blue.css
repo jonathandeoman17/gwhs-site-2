@@ -1,7 +1,7 @@
 body {
     background-image: url("http://media.giphy.com/media/10Pb7FFjUydijC/giphy.gif");
     background-repeat: no-repeat;
-    background-size: 80px 60px;
+    background-size: cover;
 }
 
 h1 {
