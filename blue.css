@@ -21,4 +21,5 @@ div {
 div a {
     top: 50%;
     font-family: "Courier New", Courier, monospace;
+    font-size: 100%;
 }
